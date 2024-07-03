@@ -4,12 +4,12 @@
 
 <p dir="auto">🎓 I am Miodrag Stosic, a recent graduate from <strong> Queen's University</strong> with an bachelors degree in <strong>Computer Engineering</strong> </p>
 
-🔭 I’m currently working on obtaining a full time position.  
-🌱 I’m currently learning new skills to improve professional skills.  
+🔭 I’m currently working on obtaining a full-time position.  
+🌱 I’m currently learning new skills to improve my professional skills.  
 👯 I’m looking to collaborate on with other developers.  
-📫 How to reach me: My email @mile.stosic02@gmail.com  
-😄 Pronouns: He/Him  
-⚡ Fun fact: I have been skydiving before!!  
+📫 How to reach me: My email is mile.stosic02@gmail.com or the links below.  
+😄 Pronouns: He/Him.  
+⚡ Fun fact: I have been skydiving before!  
 
 ## 🔗 Links
 
