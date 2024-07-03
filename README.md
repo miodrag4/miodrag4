@@ -7,7 +7,7 @@
 🔭 I’m currently working on obtaining a full-time position.  
 🌱 I’m currently learning new skills to improve my professional skills.  
 👯 I’m looking to collaborate on with other developers.  
-📫 How to reach me: My email is mile.stosic02@gmail.com or the links below.  
+📫 How to reach me: My email is mile.stosic02@gmail.com or simply use the links below.  
 😄 Pronouns: He/Him.  
 ⚡ Fun fact: I have been skydiving before!  
 
