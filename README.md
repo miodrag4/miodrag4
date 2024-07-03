@@ -2,12 +2,12 @@
 
 <p dir="auto">🎓 I am Miodrag Stosic, a recent graduate from <strong> Queen's University</strong> with an bachelors degree in <strong>Computer Engineering</strong> </p>
 
-🔭 I’m currently working on obtaining a full time position
-🌱 I’m currently learning new skills to improve professional skills
-👯 I’m looking to collaborate on with other developers
-📫 How to reach me: My email @mile.stosic02@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I have been skydiving before!!
+🔭 I’m currently working on obtaining a full time position.  
+🌱 I’m currently learning new skills to improve professional skills.  
+👯 I’m looking to collaborate on with other developers.  
+📫 How to reach me: My email @mile.stosic02@gmail.com  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I have been skydiving before!!  
 
 <a href="https://www.linkedin.com/in/miodrag-stosic-b07856209/" rel="nofollow"><img src="https://camo.githubusercontent.com/33b4b5254352f175a8bd7e80a11be359b9a7ff98a5a97c1c1fd6c6637dbc4aaa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b65645f496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465" alt="linked-in" data-canonical-src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;"></a>
 
