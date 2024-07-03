@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-<p dir="auto">🎓 I am Miodrag Stosic, a recent graduate from <strong> Queen's University</strong> with an bachelors degree in <strong>Computer Engineering</strong> </p>
+<p dir="auto">🎓 I am Miodrag Stosic, a recent graduate from <strong> Queen's University</strong> with a bachelor's degree in <strong>Computer Engineering.</strong> </p>
 
 🔭 I’m currently working on obtaining a full-time position.  
 🌱 I’m currently learning new skills to improve my professional skills.  
